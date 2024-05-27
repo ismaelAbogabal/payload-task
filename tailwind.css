@@ -1,0 +1,10 @@
+@tailwind components;
+@tailwind utilities;
+
+.app-header__wrapper {
+  overflow: visible !important;
+}
+
+.app-header__controls-wrapper {
+  overflow: visible !important;
+}
